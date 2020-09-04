@@ -1,0 +1,16 @@
+{
+    "name": "europa",
+    "version": "1.0.0",
+    "description": "website",
+    "main": "index.js",
+
+    "scripts": {
+        "deploy": "gh-pages -d europa"
+    },
+    "author": "steve",
+    "homepage": "https://vavoulas.github.io/kingalex",
+    "license": "ISC",
+    "dependencies": {
+        "gh-pages": "^3.1.0"
+    }
+}
